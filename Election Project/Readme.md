@@ -1,5 +1,5 @@
 # A Ethereum based project on election.
-##created using truffle framework and node, where any user using his public address can cast a vote using a private network created using ganache and metamask.
+##  Created using truffle framework and node, where any user using his public address can cast a vote using a private network created using ganache and metamask.
 ## If you want to run:
 1. Clone the project.
 2. Create a private network using ganache and metamask.
